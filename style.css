@@ -1,0 +1,28 @@
+.contatos{
+    
+    text-align: center;
+    text-decoration: none;
+    background-color: rgb(39, 139, 221);  
+    margin-bottom: -16px;
+    
+}
+
+.contatos a{
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    padding:10px;
+    text-decoration: none;
+    border-radius: 10px;
+    
+   
+}
+
+.contatos li{
+    display: inline-block;
+    margin: 8px;
+}
+
+.contatos a:hover{
+
+background-color: rgb(23, 23, 24);
+}
